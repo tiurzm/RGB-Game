@@ -4,7 +4,7 @@ This is a RGB Game application, built using HTML, CSS and javaScript.
 
 ## How to play:
 
-**1. Click [RGB Guessing Game](https://tiurzm.github.io/Color-Game/)**
+**1. Click [RGB Guessing Game](https://tiurzm.github.io/RGB-Game/)**
 
 ![Home Page](./assets/img/hard.png)
 
